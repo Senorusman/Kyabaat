@@ -1,0 +1,1 @@
+print('mkdir command use kri h')
